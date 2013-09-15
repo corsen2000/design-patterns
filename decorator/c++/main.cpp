@@ -10,6 +10,6 @@ int main() {
 
     cout << decoratedCoffee->getCost() << " : " << decoratedCoffee->getIngredients() << endl;
 
-    delete decoratedCoffee  ;
+    delete decoratedCoffee;
     return 0;
 }
